@@ -1,2 +1,2 @@
 # pythonProjects
-Simple desktop applications made from python.
+Simple **_GUI/CLI_** applications made from python.
